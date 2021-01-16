@@ -45,7 +45,7 @@ Before installing MongoDB add necessary keys
 
 ```sudo touch server.js```
 
-![](serverjs.jpg)
+![](https://github.com/drazen-dee28/MEAN-Stack-Deployment-on-Linux/blob/main/images/serverjs.jpg)
 
 
   **Install Express and set up routes to the server**
@@ -61,7 +61,7 @@ Before installing MongoDB add necessary keys
 
 Edit ```routes.js```  paste the code below into it as shown:
 
-![](app.jpg)
+![](https://github.com/drazen-dee28/MEAN-Stack-Deployment-on-Linux/blob/main/images/app.jpg)
 
 
  - In the apps folder, create a folder named "models" and add a file named "book.js"
@@ -73,7 +73,7 @@ Edit ```routes.js```  paste the code below into it as shown:
  - Edit book.js as shown below
  ```sudo nano book.js```
 
- ![](bookjs.jpg)
+ ![](https://github.com/drazen-dee28/MEAN-Stack-Deployment-on-Linux/blob/main/images/bookjs.jpg)
 
 
 
