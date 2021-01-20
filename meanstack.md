@@ -1,6 +1,10 @@
 **MEAN Stack Deployment on Linux**
 
 
+Prerequisite :
+- Ubuntu 20.04 with root privileges
+
+
 - Step1: Install NodeJs
 
 ``` sudo apt-get install -y nodejs```
@@ -214,6 +218,15 @@ app.controller('myCtrl', function($scope, $http) {
 
 ```sudo node server.js```
 
-- I tested the server in a browser via address http://localhost:3300 
+- I opened the MEAN stack default page to verify the server is running in a browser via address http://localhost:3300 
 
  ![](https://github.com/drazen-dee28/MEAN-Stack-Deployment-on-Linux/blob/main/images/testserver.jpg)
+
+Hence ,MEAN Stack have been successfully installed on Ubuntu 20.04 .
+
+ 
+ Credits:
+
+ [Darey DevOps](www.darey.io)
+ 
+ [How to install MEAN on Ubuntu 20.04 LTS](https://www.vultr.com/docs/how-to-install-mean-on-ubuntu-20-04-lts)
